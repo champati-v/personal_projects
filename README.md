@@ -1,2 +1,2 @@
-# personal_projects
-This repo contains my personal projects.
+# Personal Projects
+This Repository contains all my pesonal projects I make using HTML, CSS and JAVASCRIPT. Any feedback/suggestions are welcome!!
